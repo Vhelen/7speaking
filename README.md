@@ -7,4 +7,4 @@ Sur ce site d'e-learning très développé, cela suffit pour faire des heures sa
 
 Pour lancer le main.py correctement, pensez à mettre vos credentials et la bonne location de votre navigateur Firefox.
 
-Ce programme est développé sur Windows et avec le navigateur Firefox.
+Ce programme est développé sur Windows et pour le navigateur Firefox.
